@@ -24,6 +24,9 @@ void hjalp( );
 //Þetta fall spilar spilið:
 void spila( );
 
+// jonatantj12
+void xnatti( );
+
 //Ég leyfi mér að nota eina víðværa breytu af því að forritið notar alltaf
 //mismargar hrúgur í hvert og eitt skipti:
 int hrugufjoldi;
@@ -229,4 +232,9 @@ int samtals( int* hruga )
 	}
 
 	return samtala;
+}
+
+void xnatti( )
+{
+	cout << "jonatantj12";
 }
